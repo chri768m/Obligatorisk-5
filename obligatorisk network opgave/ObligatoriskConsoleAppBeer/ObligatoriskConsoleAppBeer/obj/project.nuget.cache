@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHurAzwbd/ZdKZmjBxYwecnzxEH5GNxU+3A7E576GHU1QBqFr75D5E/h6ipc/5eHmxx8b5CNBmZcqgLFLuRrsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\storm\\Desktop\\obligatorisk network opgave\\ObligatoriskConsoleAppBeer\\ObligatoriskConsoleAppBeer\\ObligatoriskConsoleAppBeer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\storm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

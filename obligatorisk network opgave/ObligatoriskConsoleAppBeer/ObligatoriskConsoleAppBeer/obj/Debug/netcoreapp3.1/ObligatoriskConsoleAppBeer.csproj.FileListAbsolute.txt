@@ -1,0 +1,15 @@
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\bin\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.exe
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\bin\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.deps.json
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\bin\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.runtimeconfig.json
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\bin\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.runtimeconfig.dev.json
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\bin\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.dll
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\bin\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.pdb
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\obj\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.csprojAssemblyReference.cache
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\obj\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.AssemblyInfoInputs.cache
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\obj\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.AssemblyInfo.cs
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\obj\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.dll
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\obj\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.pdb
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\obj\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.genruntimeconfig.cache
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\obj\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.csproj.CoreCompileInputs.cache
+C:\Users\storm\Desktop\obligatorisk network opgave\ObligatoriskConsoleAppBeer\ObligatoriskConsoleAppBeer\obj\Debug\netcoreapp3.1\ObligatoriskConsoleAppBeer.csproj.CopyComplete
